@@ -1,7 +1,8 @@
 # Data Science Portfolio
-Bienvenue dans mon portfolio Data Science ! 
-Je partage ici mes projets et compétences en :  
-- 📊 Analyse exploratoire des données (EDA)  
+Welcome to my Data Science Portfolio!
+This repository showcases my projects and highlights my skills in:  
+- 📊 Exploratory Data Analysis (EDA)  
 - 🤖 Machine Learning  
-- 📈 Visualisation de données  
+- 📈 Data Visualization  
 - 🧠 Deep Learning  
+- 🗄️ Database Analysis with MySQL & NoSQL
